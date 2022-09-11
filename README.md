@@ -1,7 +1,7 @@
 # Administrador de Cursos: configuración de TSLint
 
 Template para el estilo de código de todos los repositorios 
-TypeScript de fiuba-course-admin.
+TypeScript de tp-taller-3.
 
 ## Comandos de yarn
 
